@@ -9,6 +9,6 @@ namespace xBitz.EasyXLR.Model.Interface
     public interface IReportData
     {
         string viewName { get; set; }
-        DataSet dataSet { get; set; }
+        DataTable dataSet { get; set; }
     }
 }

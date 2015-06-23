@@ -15,7 +15,7 @@ namespace xBitz.EasyXLR.Model
         public string viewName { get; set; }
 
         [DataMember]
-        public DataSet dataSet { get; set; }
+        public DataTable dataTable { get; set; }
 
     }
 }

@@ -8,6 +8,8 @@ namespace xBitz.EasyXLR.Repository
 {
     public class GenericRepository 
     {
-        
+        //create new project 
+        // create data access layer 
+        // implement from here 
     }
 }
