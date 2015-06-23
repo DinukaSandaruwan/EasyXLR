@@ -2,3 +2,6 @@ D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.IService\bin\Debug\xBitz.EasyXLR.IServ
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.IService\bin\Debug\xBitz.EasyXLR.IService.pdb
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.IService\obj\Debug\xBitz.EasyXLR.IService.dll
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.IService\obj\Debug\xBitz.EasyXLR.IService.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.IService\bin\Debug\xBitz.EasyXLR.Model.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.IService\bin\Debug\xBitz.EasyXLR.Model.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.IService\obj\Debug\xBitz.EasyXLR.IService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.LogManager\bin\Debug\xBitz.EasyXLR.LogManager.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.LogManager\bin\Debug\xBitz.EasyXLR.LogManager.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.LogManager\bin\Debug\log4net.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.LogManager\bin\Debug\log4net.xml
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.LogManager\obj\Debug\xBitz.EasyXLR.LogManager.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.LogManager\obj\Debug\xBitz.EasyXLR.LogManager.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.LogManager\obj\Debug\xBitz.EasyXLR.LogManager.csprojResolveAssemblyReference.cache

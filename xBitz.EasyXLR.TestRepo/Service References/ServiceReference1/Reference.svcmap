@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bf1f0130-9414-419a-bc6f-acb6049da864" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/xBitz.EasyXLR.Service/XlReportService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="XlReportService.xsd" MetadataType="Schema" ID="98c442c1-87fe-466a-a6c9-e7eecfd05dac" SourceId="1" SourceUrl="http://alsg-g31a054-d.as.corp.airliquide.com/xBitz.EasyXLR.Service/XlReportService.svc?xsd=xsd3" />
+    <MetadataFile FileName="XlReportServiceManager.wsdl" MetadataType="Wsdl" ID="2ff5742c-1515-4457-bd61-803033678372" SourceId="1" SourceUrl="http://alsg-g31a054-d.as.corp.airliquide.com/xBitz.EasyXLR.Service/XlReportService.svc?wsdl" />
+    <MetadataFile FileName="XlReportService.disco" MetadataType="Disco" ID="2924653a-ac76-47f9-bff4-9a4eb88cfd82" SourceId="1" SourceUrl="http://alsg-g31a054-d.as.corp.airliquide.com/xBitz.EasyXLR.Service/XlReportService.svc?disco" />
+    <MetadataFile FileName="XlReportService1.xsd" MetadataType="Schema" ID="4f37db91-9ed9-4d4e-bd41-8f28d8c00f0b" SourceId="1" SourceUrl="http://alsg-g31a054-d.as.corp.airliquide.com/xBitz.EasyXLR.Service/XlReportService.svc?xsd=xsd1" />
+    <MetadataFile FileName="XlReportService2.xsd" MetadataType="Schema" ID="34e8f28b-fc96-4226-9d4e-aaafd8818226" SourceId="1" SourceUrl="http://alsg-g31a054-d.as.corp.airliquide.com/xBitz.EasyXLR.Service/XlReportService.svc?xsd=xsd0" />
+    <MetadataFile FileName="XlReportService3.xsd" MetadataType="Schema" ID="b637f804-2a7e-4afa-9340-69199045763a" SourceId="1" SourceUrl="http://alsg-g31a054-d.as.corp.airliquide.com/xBitz.EasyXLR.Service/XlReportService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

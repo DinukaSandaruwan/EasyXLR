@@ -6,14 +6,11 @@ using System.Text;
 namespace xBitz.EasyXLR.ServiceManager
 {
     public class BaseServiceManager<T> where T:class, new ()
-    {
-       // private readonly ILog log = LogManager.GetLogger(typeof(T));
+    {      
 
         public BaseServiceManager()
         {
-            _Manger = new T();
-            //XmlConfigurator.Configure();            
-            //log.Debug("ServiceBase Constructor Call");           
+            _Manger = new T();                   
         }
         
         private T _Manger = default(T);

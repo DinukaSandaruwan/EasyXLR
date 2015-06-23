@@ -5,3 +5,7 @@ D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\bin\Debug\xBitz.EasyXLR.Mod
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\bin\Debug\xBitz.EasyXLR.Model.pdb
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\obj\Debug\xBitz.EasyXLR.Repository.dll
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\obj\Debug\xBitz.EasyXLR.Repository.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\bin\Debug\xBitz.EasyXLR.LogManager.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\bin\Debug\log4net.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\bin\Debug\xBitz.EasyXLR.LogManager.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\bin\Debug\log4net.xml

@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>xBitz.EasyXLR.Repository</RootNamespace>
     <AssemblyName>xBitz.EasyXLR.Repository</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -20,6 +21,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -28,6 +30,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +49,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\xBitz.EasyXLR.LogManager\xBitz.EasyXLR.LogManager.csproj">
+      <Project>{1f3a0b35-6f4b-4e7a-9dfb-427a307dddfb}</Project>
+      <Name>xBitz.EasyXLR.LogManager</Name>
+    </ProjectReference>
     <ProjectReference Include="..\xBitz.EasyXLR.Model\xBitz.EasyXLR.Model.csproj">
       <Project>{3582abc8-aff6-4faf-a449-f3368bd83fa3}</Project>
       <Name>xBitz.EasyXLR.Model</Name>

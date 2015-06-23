@@ -9,3 +9,7 @@ D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ServiceManager\bin\Debug\xBitz.EasyXLR
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ServiceManager\bin\Debug\xBitz.EasyXLR.Repository.pdb
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ServiceManager\obj\Debug\xBitz.EasyXLR.ServiceManager.dll
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ServiceManager\obj\Debug\xBitz.EasyXLR.ServiceManager.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ServiceManager\bin\Debug\xBitz.EasyXLR.LogManager.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ServiceManager\bin\Debug\log4net.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ServiceManager\bin\Debug\xBitz.EasyXLR.LogManager.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ServiceManager\bin\Debug\log4net.xml

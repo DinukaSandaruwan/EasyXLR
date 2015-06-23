@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.ServiceModel;
 using System.Text;
+using System.Threading.Tasks;
+using xBitz.EasyXLR.Model;
 
 namespace xBitz.EasyXLR.IService
 {
@@ -10,6 +12,6 @@ namespace xBitz.EasyXLR.IService
     public interface IXlReportService
     {
         [OperationContract]
-        void GetReport();
+        Task<ReportData> GetReport();
     }
 }

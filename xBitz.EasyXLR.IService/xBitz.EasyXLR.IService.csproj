@@ -44,6 +44,12 @@
     <Compile Include="IXlReportService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\xBitz.EasyXLR.Model\xBitz.EasyXLR.Model.csproj">
+      <Project>{3582abc8-aff6-4faf-a449-f3368bd83fa3}</Project>
+      <Name>xBitz.EasyXLR.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

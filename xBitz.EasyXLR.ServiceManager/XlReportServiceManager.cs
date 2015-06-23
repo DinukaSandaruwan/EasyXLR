@@ -18,11 +18,6 @@ namespace xBitz.EasyXLR.ServiceManager
         public async Task<ReportData> GetReport()
         {
             return await Task.Factory.StartNew<ReportData>(()=> Manger.GetOrderData());
-        }
-
-        void IXlReportService.GetReport()
-        {
-            throw new NotImplementedException();
-        }
+        }       
     }
 }
