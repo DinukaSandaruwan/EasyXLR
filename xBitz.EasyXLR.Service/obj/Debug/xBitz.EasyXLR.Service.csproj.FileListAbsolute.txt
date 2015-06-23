@@ -1,0 +1,13 @@
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\bin\xBitz.EasyXLR.Service.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\bin\xBitz.EasyXLR.Service.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\bin\xBitz.EasyXLR.IService.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\bin\xBitz.EasyXLR.ServiceManager.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\bin\xBitz.EasyXLR.IService.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\bin\xBitz.EasyXLR.ServiceManager.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\obj\Debug\xBitz.EasyXLR.Service.csprojResolveAssemblyReference.cache
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\obj\Debug\xBitz.EasyXLR.Service.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\obj\Debug\xBitz.EasyXLR.Service.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\bin\xBitz.EasyXLR.Repository.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\bin\xBitz.EasyXLR.Model.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\bin\xBitz.EasyXLR.Repository.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Service\bin\xBitz.EasyXLR.Model.pdb

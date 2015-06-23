@@ -1,0 +1,7 @@
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\obj\Debug\xBitz.EasyXLR.Repository.csprojResolveAssemblyReference.cache
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\bin\Debug\xBitz.EasyXLR.Repository.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\bin\Debug\xBitz.EasyXLR.Repository.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\bin\Debug\xBitz.EasyXLR.Model.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\bin\Debug\xBitz.EasyXLR.Model.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\obj\Debug\xBitz.EasyXLR.Repository.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.Repository\obj\Debug\xBitz.EasyXLR.Repository.pdb

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xBitz.EasyXLR.Service", "xBitz.EasyXLR.Service\xBitz.EasyXLR.Service.csproj", "{0FFFDBF8-ED1E-4E7C-A698-F1798B0A4EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xBitz.EasyXLR.IService", "xBitz.EasyXLR.IService\xBitz.EasyXLR.IService.csproj", "{87D26A5E-E26C-4F66-BBDC-2AA7ED025C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xBitz.EasyXLR.Model", "xBitz.EasyXLR.Model\xBitz.EasyXLR.Model.csproj", "{3582ABC8-AFF6-4FAF-A449-F3368BD83FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xBitz.EasyXLR.Repository", "xBitz.EasyXLR.Repository\xBitz.EasyXLR.Repository.csproj", "{315EF54B-0ABB-4631-AFD1-001983DB7668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xBitz.EasyXLR.ServiceManager", "xBitz.EasyXLR.ServiceManager\xBitz.EasyXLR.ServiceManager.csproj", "{0232B3B3-EC94-4EFD-B399-0EF758B11990}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xBitz.EasyXLR.ExcelAddin", "xBitz.EasyXLR.ExcelAddin\xBitz.EasyXLR.ExcelAddin.csproj", "{3A61C38F-3BFC-40C6-A223-42D13B2C0CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FFFDBF8-ED1E-4E7C-A698-F1798B0A4EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFFDBF8-ED1E-4E7C-A698-F1798B0A4EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFFDBF8-ED1E-4E7C-A698-F1798B0A4EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFFDBF8-ED1E-4E7C-A698-F1798B0A4EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D26A5E-E26C-4F66-BBDC-2AA7ED025C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D26A5E-E26C-4F66-BBDC-2AA7ED025C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D26A5E-E26C-4F66-BBDC-2AA7ED025C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D26A5E-E26C-4F66-BBDC-2AA7ED025C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3582ABC8-AFF6-4FAF-A449-F3368BD83FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3582ABC8-AFF6-4FAF-A449-F3368BD83FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3582ABC8-AFF6-4FAF-A449-F3368BD83FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3582ABC8-AFF6-4FAF-A449-F3368BD83FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315EF54B-0ABB-4631-AFD1-001983DB7668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315EF54B-0ABB-4631-AFD1-001983DB7668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315EF54B-0ABB-4631-AFD1-001983DB7668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315EF54B-0ABB-4631-AFD1-001983DB7668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0232B3B3-EC94-4EFD-B399-0EF758B11990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0232B3B3-EC94-4EFD-B399-0EF758B11990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0232B3B3-EC94-4EFD-B399-0EF758B11990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0232B3B3-EC94-4EFD-B399-0EF758B11990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A61C38F-3BFC-40C6-A223-42D13B2C0CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A61C38F-3BFC-40C6-A223-42D13B2C0CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A61C38F-3BFC-40C6-A223-42D13B2C0CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A61C38F-3BFC-40C6-A223-42D13B2C0CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

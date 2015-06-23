@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="xBitz.EasyXLR.ServiceManager.XlReportServiceManager" CodeBehind="xBitz.EasyXLR.ServiceManager.XlReportServiceManager.cs" %>
