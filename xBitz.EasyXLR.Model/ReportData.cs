@@ -17,5 +17,9 @@ namespace xBitz.EasyXLR.Model
         [DataMember]
         public DataTable dataTable { get; set; }
 
+        public List<xlFilter> filter { get;set; }
+
+
+        
     }
 }

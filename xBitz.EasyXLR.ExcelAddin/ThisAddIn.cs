@@ -21,6 +21,12 @@ namespace xBitz.EasyXLR.ExcelAddin
 
         #region VSTO generated code
 
+
+        protected override Microsoft.Office.Core.IRibbonExtensibility CreateRibbonExtensibilityObject()
+        {
+            return new EasyXLR();
+        }   
+
         /// <summary>
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
@@ -30,7 +36,9 @@ namespace xBitz.EasyXLR.ExcelAddin
             this.Startup += new System.EventHandler(ThisAddIn_Startup);
             this.Shutdown += new System.EventHandler(ThisAddIn_Shutdown);
         }
-        
+
+        public static List<XLRDataSource> datasource = new List<XLRDataSource>();
+
         #endregion
     }
 }

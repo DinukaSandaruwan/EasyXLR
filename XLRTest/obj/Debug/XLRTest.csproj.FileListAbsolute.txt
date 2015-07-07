@@ -1,0 +1,9 @@
+D:\Dev\Dinuka\xBitz\EasyXLR\XLRTest\bin\Debug\XLRTest.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\XLRTest\bin\Debug\XLRTest.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\XLRTest\bin\Debug\xBitz.EasyXLR.ExcelAddin.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\XLRTest\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\XLRTest\bin\Debug\xBitz.EasyXLR.ExcelAddin.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\XLRTest\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Dev\Dinuka\xBitz\EasyXLR\XLRTest\obj\Debug\XLRTest.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\XLRTest\obj\Debug\XLRTest.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\XLRTest\obj\Debug\XLRTest.csprojResolveAssemblyReference.cache

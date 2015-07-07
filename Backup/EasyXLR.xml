@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI onLoad="Ribbon_Load" xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabAddIns" >
+        <group id="ContentGroup" label="Project">
+          <button id="textButton" label="New Project"
+               screentip="Button"
+               supertip="Inserts text at the cursor location."/>
+          <button id="tableButton" label="Insert Table"
+               screentip="Table"
+               supertip="Inserts a table at the cursor location."/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
+

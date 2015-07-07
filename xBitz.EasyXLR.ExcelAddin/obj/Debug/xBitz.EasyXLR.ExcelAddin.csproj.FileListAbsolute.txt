@@ -4,8 +4,9 @@ D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\bin\Debug\xBitz.EasyXLR.Exc
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\bin\Debug\xBitz.EasyXLR.ExcelAddin.vsto
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
-D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\obj\Debug\xBitz.EasyXLR.ExcelAddin.csprojResolveAssemblyReference.cache
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\obj\Debug\xBitz.EasyXLR.ExcelAddin.Properties.Resources.resources
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\obj\Debug\xBitz.EasyXLR.ExcelAddin.csproj.GenerateResource.Cache
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\obj\Debug\xBitz.EasyXLR.ExcelAddin.dll
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\obj\Debug\xBitz.EasyXLR.ExcelAddin.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\obj\Debug\xBitz.EasyXLR.ExcelAddin.winForm.frmNewProject.resources
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\obj\Debug\xBitz.EasyXLR.ExcelAddin.csprojResolveAssemblyReference.cache

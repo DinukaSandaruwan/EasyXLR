@@ -1,0 +1,4 @@
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExceptionManager\bin\Debug\xBitz.EasyXLR.ExceptionManager.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExceptionManager\bin\Debug\xBitz.EasyXLR.ExceptionManager.pdb
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExceptionManager\obj\Debug\xBitz.EasyXLR.ExceptionManager.dll
+D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExceptionManager\obj\Debug\xBitz.EasyXLR.ExceptionManager.pdb
