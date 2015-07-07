@@ -9,7 +9,10 @@ using Excel = Microsoft.Office.Interop.Excel;
 namespace xBitz.EasyXLR.ExcelAddin
 {
     public class XLRExtention
-    {        
+    {
+        DataTable _tbl = new DataTable();
+        int RowCount, ColumnCount;
+
         public static void Refresh()
         {
             XLRDataSource DS = ThisAddIn.datasource[0];
@@ -353,8 +356,7 @@ namespace xBitz.EasyXLR.ExcelAddin
             }
         }
 
-        DataTable _tbl = new DataTable();
-        int RowCount, ColumnCount;
+       
         public Excel.ListObject WriteToExcelTable(Excel.Worksheet WSheet, string TableName, string CellStr = "A1", bool ClearSheetContent = false)
         {
             Excel.Range range;

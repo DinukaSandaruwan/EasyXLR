@@ -24,10 +24,9 @@ namespace xBitz.EasyXLR.ExcelAddin
                     frm.Show();
                     break;
                 case "Refresh":
-                    XLRExtention.Refresh();
+                    XLRHandler.Refresh();
                     break;
                 default:
-                    
                     break;
             }
         }

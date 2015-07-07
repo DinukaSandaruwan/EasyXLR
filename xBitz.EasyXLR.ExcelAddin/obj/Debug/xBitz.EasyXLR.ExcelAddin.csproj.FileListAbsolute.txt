@@ -9,4 +9,3 @@ D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\obj\Debug\xBitz.EasyXLR.Exc
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\obj\Debug\xBitz.EasyXLR.ExcelAddin.dll
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\obj\Debug\xBitz.EasyXLR.ExcelAddin.pdb
 D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\obj\Debug\xBitz.EasyXLR.ExcelAddin.winForm.frmNewProject.resources
-D:\Dev\Dinuka\xBitz\EasyXLR\xBitz.EasyXLR.ExcelAddin\obj\Debug\xBitz.EasyXLR.ExcelAddin.csprojResolveAssemblyReference.cache

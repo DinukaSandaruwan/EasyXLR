@@ -31,8 +31,9 @@ namespace xBitz.EasyXLR.ExcelAddin.winForm
             //list1 = worksheet.Controls.AddListObject(cell, "Customers");
             //list1.AutoSetDataBoundColumnHeaders = true;
             //list1.DataSource = dt;
-            //this.Close();      
+                
             LoadData();
+            this.Close(); 
         }
 
         private void LoadData()
@@ -42,7 +43,17 @@ namespace xBitz.EasyXLR.ExcelAddin.winForm
             ThisAddIn.datasource.Add(xl);
         }
 
-       
+        private void btnOpen_Click(object sender, EventArgs e)
+        {
+            DialogResult result = openFileDialog1.ShowDialog(); // limit only excel file 
+            if (result == DialogResult.OK)
+            {
+                string file = openFileDialog1.FileName;
+                ThisAddIn.ExcelFileName = file;
+                XLRHandler.GetWorkBook(ThisAddIn.ExcelFileName);
+                this.Close(); 
+            }
+        }
 
 
         

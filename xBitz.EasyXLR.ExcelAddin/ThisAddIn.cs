@@ -38,6 +38,7 @@ namespace xBitz.EasyXLR.ExcelAddin
         }
 
         public static List<XLRDataSource> datasource = new List<XLRDataSource>();
+        public static string ExcelFileName { get; set; }
 
         #endregion
     }
