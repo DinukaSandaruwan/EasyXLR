@@ -20,8 +20,9 @@ namespace xBitz.EasyXLR.ExcelAddin
         {
             Application app = XLRExtention.GetExcelApplicationInstance();
             Workbook wb = XLRExtention.GetWorkBook(app, filePath);
-            XLRExtention.FindListObject(wb, "customer");
-            app.Workbooks.Add(wb);
+            Worksheet ws = wb.ActiveSheet;
+
+            
             return true;
         }
     }
